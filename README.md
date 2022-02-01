@@ -5,7 +5,7 @@ Mini-project to play with the classification methods: SVM, KNN and Random Forest
 
 ### Code and data
 <code>notebook.ipynb</code>: Python code with data preprocessing and visualisation
-<li><code>diabetes.csv</code>: data file
+<code>diabetes.csv</code>: data file
 
 ### Comparison of scores
 ![](https://github.com/yuliianikolaenko/diabetes-ml-models/blob/main/img/scores.png)
